@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id":"one",
+            "imgsrc":"./img/imagen5.jpg",
+            "title":"Iphone 11 Pro",
+            "price":"899.99$"
+        },
+        {
+            "id":"two",
+            "imgsrc":"./img/imagen1.jpg",
+            "title":"Samsung 70 4K Smart LED TV",
+            "price":"896.99$"
+        },
+        {
+            "id":"three",
+            "imgsrc":"./img/imagen2.jpg",
+            "title":"Iphone 12 Pro Max",
+            "price":"1099.99$"
+        },
+        {
+            "id":"four",
+            "imgsrc":"./img/imagen3.jpg",
+            "title":"Laptop Gamer",
+            "price":"1659.99$"
+        }
+    ]
+}
